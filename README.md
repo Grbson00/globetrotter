@@ -1,4 +1,10 @@
-# GlObetrotter 
+# Globetrotter
+
+A GO/React unversity project, consisting of a monolithic backend application for booking flights, paired with a user-friendly frontend
+and a microservice backend, following design patterns, using an nginx gateway, gRPC for interservice communication and a corresponding frontend.
+
+Technologies: GO, React, Docker, nginx, gRPC
+
 ## Micro Service Application Architecture
 ![Screenshot](microServiceArchitecture.jpg)
 
